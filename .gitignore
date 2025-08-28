@@ -1,6 +1,6 @@
-.ipynb_checkpoints/
-__pycache__
-venv
-.idea
-.vscode
-Untitled.ipynb
+ output
+ *.o
+ *.out
+ .idea
+ .DS_Store
+log/*
